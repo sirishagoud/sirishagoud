@@ -4,10 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-*   🌍  I'm based in Telanagana, India
-*   ✉️  You can contact me at [bsaisirishagoud888@gmail.com](mailto:bsaisirishagoud888@gmail.com)
-*   🧠  I'm learning Backend Development
-*   🤝  I'm open to collaborating on I'm open to collaborating on exciting projects as a frontend developer, designer or dev rel.### Skills 
+* 🌍  I'm based in Telanagana, India
+* ✉️  You can contact me at [bsaisirishagoud888@gmail.com](mailto:bsaisirishagoud888@gmail.com)
+* 🧠  I'm learning Backend Development
+* 🤝  I'm open to collaborating on I'm open to collaborating on exciting projects as a frontend developer, designer or dev rel.
+
+### Skills
+
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -24,13 +28,16 @@ Software Developer
 <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/sirishagoud" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/bandagonda-sai-sirisha-goud-6587831a5/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/sirishagoud"><img src="https://github-readme-stats.vercel.app/api?username=sirishagoud&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=84cc16&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="sirishagoud's GitHub stats" /></a><a href="https://github.com/sirishagoud" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirishagoud&langs_count=10&title_color=facc15&text_color=84cc16&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/sirishagoud" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bandagonda-sai-sirisha-goud-6587831a5/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/sirishagoud"><img src="https://github-readme-stats.vercel.app/api?username=sirishagoud&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=84cc16&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="sirishagoud's GitHub stats" /></a>
+
+<a href="https://github.com/sirishagoud" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirishagoud&langs_count=10&title_color=facc15&text_color=84cc16&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
