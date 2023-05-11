@@ -37,5 +37,3 @@ Software Developer
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/sirishagoud"><img src="https://github-readme-stats.vercel.app/api?username=sirishagoud&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=84cc16&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="sirishagoud's GitHub stats" /></a>
-
-<a href="https://github.com/sirishagoud" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirishagoud&langs_count=10&title_color=facc15&text_color=84cc16&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
