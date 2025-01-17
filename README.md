@@ -6,8 +6,8 @@ Software Developer
 
 * 🌍  I'm based in Telanagana, India
 * ✉️  You can contact me at [bsaisirishagoud888@gmail.com](mailto:bsaisirishagoud888@gmail.com)
-* 🧠  I'm learning Backend Development
-* 🤝  I'm open to collaborating on I'm open to collaborating on exciting projects as a frontend developer, designer or dev rel.
+* 🧠  I'm a Full Stack Developer
+* 🤝  I'm open to collaborate on exciting projects.
 
 ### Skills
 
